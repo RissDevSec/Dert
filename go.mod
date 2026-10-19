@@ -1,3 +1,3 @@
-module github.com/Bonnz123/Dert/v2
+module github.com/RissDevSec/Dert/v3
 
-go 1.25.5
+go 1.27.2
